@@ -1,0 +1,8 @@
+course_id,title,category,difficulty,duration_hours
+ML101,Introduction to Machine Learning,Machine Learning,Beginner,5
+PY101,Python Basics,Programming,Beginner,4
+DS101,Data Science Fundamentals,Data Science,Intermediate,6
+SQL101,SQL for Data Analysis,Data Engineering,Intermediate,5
+ML201,Applied Machine Learning Projects,Machine Learning,Advanced,8
+HTML101,HTML for Beginners,Web Development,Beginner,3
+CSS101,CSS Styling Essentials,Web Development,Beginner,3.5
